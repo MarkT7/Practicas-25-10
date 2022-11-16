@@ -1,0 +1,50 @@
+body {
+  display: flex;
+}
+
+div {
+  background-color: yellow;
+  border: 3px solid black;
+  margin: 10px;
+  height: 70px;
+  width: 150px;
+}
+
+.div1 {
+  border-radius: 5px;
+}
+.div2 {
+  border-radius: 10px;
+}
+.div3 {
+  border-radius: 20px;
+}
+.div4 {
+  border-radius: 40px;
+}
+.div5 {
+  border-radius: 60px;
+}
+.div6 {
+  border-radius: 13em/3em;
+  border: 5px double red;;
+}
+.div7 {
+  border-top-left-radius: 40%;
+}
+.div8 {
+  border-radius: 80px 20px;
+}
+.div9 {
+  border-radius: 60px 20px 5px;
+}
+.div10 {
+  border-radius: 60px 20px 5px 90px;
+}
+.div11 {
+  border-radius: 60px/20px;
+}
+.div12 {
+  border-radius: 50%;
+  border: 3px solid red;
+}
